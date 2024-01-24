@@ -11,8 +11,8 @@ public class HelloWorld {
         System.out.println("Hello, World!");
     }
     
-    private void f2() {
-        // v2.0
+    private void f3() {
+        // v3.0
     }
 
 }
